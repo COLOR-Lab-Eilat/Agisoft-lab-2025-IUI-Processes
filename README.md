@@ -1,4 +1,4 @@
 # Photogrammetry_Lab
-Environmental Processes in the Gulf of Aqaba - Photogrammetry Lab
+Environmental Processes in the Gulf of Eilat - Photogrammetry Lab
 
 Download the LabProc folder.
